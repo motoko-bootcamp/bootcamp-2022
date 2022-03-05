@@ -61,7 +61,7 @@ Each day along with the daily guide you will also have a list of 10 challenges r
 
 If you wish to graduate from Motoko Bootcamp and compete for prizes, you will need to work **each day** on the challenges and **commit your solutions in a public GitHub repo before the correct solutions are published** on the following day at 7am EST.
 
-**<a href="https://calendar.google.com/calendar/u/0/embed?src=c_8h9uqii3bt0k7j3ekhoa1mskro@group.calendar.google.com" target="\_blank"> Please fill out this form </a>** before the first daily challenge deadline so that we can keep track of the GitHub repo where you are doing your work.
+**<a href="https://forms.gle/H57cjZUd7qCb9MyP8" target="\_blank"> Please fill out this form </a>** before the first daily challenge deadline so that we can keep track of the GitHub repo where you are doing your work.
 
 # Core project 🧑‍🔬
 
