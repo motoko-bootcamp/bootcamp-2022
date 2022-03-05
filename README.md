@@ -107,7 +107,7 @@ For each track, based on the core project & daily challenges submission will det
 
 # Ressources 📚
 
-**Day 1** : [Guide](/daily_challenges/day_1/GUIDE.MD)
+**Day 1** : [Guide](/daily_challenges/day_1/GUIDE.MD) and [Challenge](/daily_challenges/day_1/CHALLENGE.MD)
 <br/>
 **Day 2** : Coming
 <br/>
