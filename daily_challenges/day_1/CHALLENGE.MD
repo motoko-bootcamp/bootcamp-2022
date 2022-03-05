@@ -22,7 +22,7 @@ TODO
   - <strong> <i> clear_counter </i> </strong> sets the value of counter to 0.
     <br/> <br/>
 
-- Challenge 5 : Write a function <strong><i>divide</i></strong> that takes two natural numbers <strong> n </strong> and <strong> m </strong> and returns a boolean indicating if y divides x.
+- Challenge 5 : Write a function <strong><i>divide</i></strong> that takes two natural numbers <strong> n </strong> and <strong> m </strong> and returns a boolean indicating if n divides m.
 
 - Challenge 6 : Write a function <strong><i> is_even </i> </strong> that takes a natural number <strong> n </strong> and returns a boolean indicating if <strong> n </strong> is even.
 
