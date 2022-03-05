@@ -81,7 +81,17 @@ Each student will be assigned a team of 5-10 students within a similar time zone
 
 # Assistance & Ongoing Troubleshooting 📞
 
-TODO : process to submit issues.
+This event is being run by volunteers and we have **limited** ressources, we won't be able to answer all questions at all time considering that we have more than 200 students, please understand this fact and make sure to follow **all instructions** in the **order** provided.
+
+1) Search on **Google** : most issues have their solution somewhere on the Internet, this is how real developers solve most of their problems. You need to make sure you've searched a for a few minutes on the Internet before moving to the **next step**.
+2) Ask your team for help : you all have been assigned a specific team on Discord, this team is composed of people in your Time zone and roughly with the same level as you. If you run into an issue, someone in your group probably encountered the same and might have the solution. You need to make sure you've asked your team and waited for a few minutes before moving to the **next step**.
+3) Go to the <a href="https://github.com/motoko-bootcamp/bootcamp/discussions" target="_blank"> discussion section </a> and ask your question by creating a new topic. **Make sure** your issue hasn't be already answered in another topic. <br/> If you decide to create a new topic, please provide as much informations as possibles :
+- When did you encounter the issue ?
+- What is the exact error message ?
+- Eventually : provide some screenshots to illustrate 
+
+Note : your issue might be resolved only in the next mentor session if we need you to share your screen and the issue cannot be resolved in one simple answer. Make sure to stay active in the topic.
+
 
 # Prizes 🎁
 
@@ -97,7 +107,7 @@ For each track, based on the core project & daily challenges submission will det
 
 # Ressources 📚
 
-**Day 1** : ADD LINK
+**Day 1** : [Guide](/daily_challenges/day_1/GUIDE.MD)
 <br/>
 **Day 2** : Coming
 <br/>
