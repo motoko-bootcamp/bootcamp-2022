@@ -129,7 +129,7 @@ For each track, based on the core project & daily challenges submission will det
 <a href="https://www.google.com/url?q=https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/&sa=D&source=docs&ust=1646578646250914&usg=AOvVaw2t9ssTnoubsEHh3XlqkTl9" target="_blank"> **Motoko playground** </a> : A sandbox to quickly write and test Motoko code from your browser.
 
 
-<a href="https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko" target="_blank"> **Motoko extension* </a> : A Motoko extension for Visual Studio Code that provides syntax highlighting.
+<a href="https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko" target="_blank"> **Motoko extension** </a> : A Motoko extension for Visual Studio Code that provides syntax highlighting.
 
 
 
