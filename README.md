@@ -111,7 +111,7 @@ For each track, based on the core project & daily challenges submission will det
 
 **Day 1** : [Guide](/daily_challenges/day_1/GUIDE.MD) and [Challenge](/daily_challenges/day_1/CHALLENGE.MD)
 <br/>
-**Day 2** : Coming
+**Day 2** : [Guide](/daily_challenges/day_2/GUIDE.MD) and [Challenge](/daily_challenges/day_2/CHALLENGE.MD)
 <br/>
 **Day 3** : Coming
 <br/>
