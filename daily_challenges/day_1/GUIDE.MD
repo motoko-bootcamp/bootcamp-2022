@@ -449,7 +449,7 @@ Copy and paste the following code and deploy the actor.
 import Debug "mo:base/Debug";
 
 actor {
-    let array : [Nat] = ["1", "2", "3", "4", "5"];
+    let array : [Nat] = [1, 2, 3, 4, 5];
 
     public func test() : async () {
         for (value in array.vals()){
