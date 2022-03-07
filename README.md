@@ -135,7 +135,7 @@ For each track, based on the core project & daily challenges submission will det
 <a href="https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735" target="_blank"> **An article on Motoko by it's conceptor.** </a> : Motoko, Candid, Web assembly...
 
 
-<a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education ** </a> : Educational ressources on datastructures, web development, blockchain and more.
+<a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education** </a> : Educational ressources on datastructures, web development, blockchain and more.
 
 
 
