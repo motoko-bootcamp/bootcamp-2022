@@ -137,5 +137,7 @@ For each track, based on the core project & daily challenges submission will det
 
 <a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education** </a> : Educational ressources on datastructures, web development, blockchain and more.
 
+Advanced :
 
+<a href="https://github.com/dfinity/invoice-canister" target="_blank"> ** The invoice canister* </a> : processing payments on the IC.
 
