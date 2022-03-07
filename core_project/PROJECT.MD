@@ -48,7 +48,7 @@ Here's a website called **<a href="https://qmr4u-2yaaa-aaaad-qbaxa-cai.ic0.app/a
 
 This website allow users to login using **<a href="\_https://github.com/Toniq-Labs/stoic-wallet" target="\_blank"> Stoic Wallet </a>**, to access some informations about the project once you're logged in and then use the mint button to create an NFT based on any content on the Internet Computer (by providing the url), you can also add some customization options around the NFTs with some Bob flairs. 🎨
 
-The source ode for this project is available **<a href="https://www.dfinitycommunity.com/a-closer-look-at-epic-nfts-bobnfts-and-the-future-of-nfts-on-the-internet-computer/" target="\_blank"> on this public GitHub repo</a>**.
+The source ode for this project is available **<a href="https://github.com/Toniq-Labs/creator-nfts" target="\_blank"> on this public GitHub repo</a>**.
 
 If you want to know more about this specific project, it's utility and roadamp you can **<a href="https://www.dfinitycommunity.com/a-closer-look-at-epic-nfts-bobnfts-and-the-future-of-nfts-on-the-internet-computer/" target="\_blank"> read about it here </a>**. </i>
 
