@@ -48,7 +48,7 @@ Here's a website called **<a href="https://qmr4u-2yaaa-aaaad-qbaxa-cai.ic0.app/a
 
 This website allow users to login using **<a href="\_https://github.com/Toniq-Labs/stoic-wallet" target="\_blank"> Stoic Wallet </a>**, to access some informations about the project once you're logged in and then use the mint button to create an NFT based on any content on the Internet Computer (by providing the url), you can also add some customization options around the NFTs with some Bob flairs. 🎨
 
-The source ode for this project is available **<a href="https://www.dfinitycommunity.com/a-closer-look-at-epic-nfts-bobnfts-and-the-future-of-nfts-on-the-internet-computer/" target="\_blank"> on this public GitHub repo</a>**.
+The source ode for this project is available **<a href="https://github.com/Toniq-Labs/creator-nfts" target="\_blank"> on this public GitHub repo</a>**.
 
 If you want to know more about this specific project, it's utility and roadamp you can **<a href="https://www.dfinitycommunity.com/a-closer-look-at-epic-nfts-bobnfts-and-the-future-of-nfts-on-the-internet-computer/" target="\_blank"> read about it here </a>**. </i>
 
@@ -56,7 +56,16 @@ Don't freak out if this seems way too much work for one week, the goal is to mak
 
 # Faucet 💰
 
-We will publish the URL to the token faucet soon
+**<a href="https://bootcamp-faucet.vercel.app/" target="\_blank"> Here is the URL </a>** for the Motoko Bootcamp Tokens.
+
+If you would like to few the code for the faucet, **<a href="https://github.com/stopak/bootcamp_faucet" target="\_blank"> you can find that here </a>**.
+
+Other useful info:
+
+1. The canister id: yeeiw-3qaaa-aaaah-qcvmq-cai
+2. Your account ID if someone needs to send you more tokens. </br>```import { getAccountId, getTokenIdentifier } from '../utils'; getAccountId(Principal.from('```**[YOUR PRINCPLE ID]**```'))``` </br>using plug api from: https://docs.plugwallet.ooo/getting-started/connect-to-plug/#requestconnectrequestconnectparams
+4. URL to the plug article on exporting your wallet to dfx: https://twitter.com/plug_wallet/status/1429947938248314881
+5. A sample send command so you know how to send your tokens </br>```dfx canister --network ic call yeeiw-3qaaa-aaaah-qcvmq-cai send_dfx 'record{memo=0; amount=record{e8s=AMOUNT_X_10^8;};fee=record{e8s=PROPER_FEEE}; from_subaccount=null; to="DEST_ACCOUNTID_NOT_PRINCIPAL"; created_at_time=null;}'```
 
 # Submission 📝
 
