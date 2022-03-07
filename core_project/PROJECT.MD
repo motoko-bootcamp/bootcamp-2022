@@ -56,7 +56,16 @@ Don't freak out if this seems way too much work for one week, the goal is to mak
 
 # Faucet 💰
 
-We will publish the URL to the token faucet soon
+**<a href="https://bootcamp-faucet.vercel.app/" target="\_blank"> Here is the URL </a>** for the Motoko Bootcamp Tokens.
+
+If you would like to few the code for the faucet, **<a href="https://github.com/stopak/bootcamp_faucet" target="\_blank"> you can find that here </a>**.
+
+Other useful info:
+
+1. The canister id: yeeiw-3qaaa-aaaah-qcvmq-cai
+2. Your account ID if someone needs to send you more tokens. </br>```import { getAccountId, getTokenIdentifier } from '../utils'; getAccountId(Principal.from('e5uhc-kq6ct-dgmct-7x2zg-dnytg-kry5b-3rwpw-uuwqj-andm2-cmvis-nqe'))``` using plug api from: https://docs.plugwallet.ooo/getting-started/connect-to-plug/#requestconnectrequestconnectparams
+4. URL to the plug article on exporting your wallet to dfx: https://twitter.com/plug_wallet/status/1429947938248314881
+5. A sample send command so you know how to send your tokens </br>```dfx canister --network ic call yeeiw-3qaaa-aaaah-qcvmq-cai send_dfx 'record{memo=0; amount=record{e8s=AMOUNT_X_10^8;};fee=record{e8s=PROPER_FEEE}; from_subaccount=null; to="DEST_ACCOUNTID_NOT_PRINCIPAL"; created_at_time=null;}'```
 
 # Submission 📝
 
