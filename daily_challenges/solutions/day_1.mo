@@ -5,19 +5,16 @@ import Char "mo:base/Char";
 actor {
 
   //  Challenge 1 
-  //  Write a function add that takes two natural number n and m and returns the sum.
   public func add(x : Nat, y : Nat) : async Nat {
     return(x + y);
   };
 
   //  Challenge 2
-  // Write a function sub that takes two natural number and returns the area of a square of length n.
   public func square(n : Nat) : async Nat {
     return(n * n);
   };
 
   //  Challenge 3
-  //  Write a function days_to_second that takes a number of days n and returns the number of seconds in total.
   public func days_to_second(n : Nat) : async Nat {
     return(n * 24 * 60 * 60); // Each day has 24 hours; each hour has 60 minutes; each minute has 60 seconds.
   };
