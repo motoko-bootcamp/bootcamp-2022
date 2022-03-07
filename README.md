@@ -137,7 +137,13 @@ For each track, based on the core project & daily challenges submission will det
 
 <a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education** </a> : Educational ressources on datastructures, web development, blockchain and more.
 
+
+<a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a> : Template project for major framework (Vue, React, Vanilla JS,Svelte).
+
 Advanced :
 
-<a href="https://github.com/dfinity/invoice-canister" target="_blank"> ** The invoice canister* </a> : processing payments on the IC.
+<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. 💰
+
+
+
 
