@@ -6,3 +6,8 @@
 # Mac OSX temporary files
 .DS_Store
 **/.DS_Store
+
+
+# Replica files and configuration
+.dfx
+**/.dfx
