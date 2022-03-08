@@ -17,7 +17,7 @@ TODO
   Note : init_count(5) -> [0,1,2,3,4]. <br/>
   Note 2 : Do <strong> not </strong> use Array.append.
 
-- Challenge 3 : Write a function <strong> <i>seven </i></strong> that takes an <strong> array</strong> [Nat] and returns "Seven is found" if one digit of ANY number is 8. Otherwise this function will return "Seven not found".
+- Challenge 3 : Write a function <strong> <i>seven </i></strong> that takes an <strong> array</strong> [Nat] and returns "Seven is found" if one digit of ANY number is 7. Otherwise this function will return "Seven not found".
 
 - Challenge 4 : Write a function <strong> <i> nat_opt_to_nat </i></strong> that takes two parameters : <strong> n </strong> of type <strong> ?Nat </strong> and <strong> m </strong> of type <strong> Nat </strong>. This function will return the value of n if n is <strong> not </strong> <strong> <i> null </strong> </i> and if n is <strong> <i> null </strong> </i> it will default to the value of <strong> m</strong>.
 
