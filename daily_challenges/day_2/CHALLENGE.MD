@@ -33,7 +33,7 @@ TODO
 
 - Challenge 10 :
 
-  1. Watch this video on <a href="" target="_blank"> bubble sort.</a>
+  1. Watch this video on <a href="https://www.youtube.com/watch?v=xli_FI7CuzA" target="_blank"> bubble sort.</a>
   2. Implement a function <strong><i> bubble_sort </i> </strong> that takes an <strong> array </strong> of natural numbers and returns the <strong> sorted array </strong>.
 
 <br/>
