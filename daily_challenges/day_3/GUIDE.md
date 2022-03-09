@@ -308,7 +308,7 @@ actor {
     };
 
     public func riddle(array : [Nat]) : async [Nat] {
-        return(Array.map<Nat>(array, f));
+        return(Array.map<Nat, Nat>(array, f));
     };
 };
 ```
