@@ -12,7 +12,7 @@ TODO
 
 For the daily challenges of today, you need to create multiples files. Instead of creating a file day_4.mo, start by creating a folder day_4 and inside create the different files you'll be asked for through the challenges.
 
-- Challenge 1 : Create two files called custom.mo and main.mo, create your own type inside custon.mo and import it in your main.mo file. In main, create a public function<strong> <i> fun </i> </strong> that takes no argument but return a value of your custom type. <br/>
+- Challenge 1 : Create two files called custom.mo and main.mo, create your own type inside custom.mo and import it in your main.mo file. In main, create a public function<strong> <i> fun </i> </strong> that takes no argument but return a value of your custom type. <br/>
   Note : Be creative 🌈
 
 - Challenge 2 : Create a new file called animal.mo with at least 2 property (specie of type Text, energy of type Nat), import this type in your main.mo and create a variable that will store an animal.
