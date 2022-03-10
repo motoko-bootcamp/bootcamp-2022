@@ -64,7 +64,7 @@ actor {
         };
     };
 
-    public func capitalize_text(word : Text) : Text {
+    public func capitalize_text(word : Text) : async Text {
         var new_word : Text = "";
         for(char in word.chars()){
             new_word #= Char.toText(_capitalize_character(char));
@@ -73,20 +73,20 @@ actor {
     };
 
     //  Challenge 6 
-    public func is_inside(t : Text, l : Text) : Bool {
+    public func is_inside(t : Text, l : Text) : async Bool {
         let p = #text(l);
         return(Text.contains(t, p));
     };
 
 
     //  Challenge 7 
-    public func trim_whitespace(t : Text) : Text {
+    public func trim_whitespace(t : Text) : asyncText {
         let pattern = #text(" ");
         return(Text.trim(t, p));
     };
 
     //  Challenge 8 
-    public func duplicate_character(t : Text) : Text {
+    public func duplicate_character(t : Text) : async Text {
         var characters : [Char] = [];
         for (character in t.vals()){
             switch(Array.filter(characters, f(x) : Text -> Bool {x == character})){

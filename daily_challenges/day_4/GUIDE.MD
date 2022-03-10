@@ -49,7 +49,7 @@ Now that we have declared our type we can create our first variable of type Pers
 ```
 let tom : Person = {
   name = "Tom Cruise";
-  age = "59";
+  age = 59;
 };
 ```
 
@@ -68,7 +68,7 @@ actor {
   public type Person = Person.Person;
   let penelope : Person = {
     name = "Penelope Cruz";
-    age = "47";
+    age = 47;
   };
 
 };
