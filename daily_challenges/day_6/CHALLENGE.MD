@@ -37,19 +37,28 @@ This function will transfer ownership of tokenIndex to the specified principal. 
 
 - Challenge 7 : Modify the actor so that you can safely upgrade it without loosing any state.
 
-Well done, you've just created your own NFT standard 🔥.
+Well... you've just created your own NFT standard 🔥.
 
 Bonus : **intercanister calls**.
 
-- Challenge 8 : Use another canister to mint a NFT.
+- Challenge 8 : Create another canister and use to mint a NFT by calling the mint method of your first canister.
 
-Well done, you have just created your own on-chain wallet. 🔒
+Well... you just created your own on-chain wallet. 🔒
 
-Bonus optional (Only take on those challenges if you have nothing else to do )
+Bonus optional (Only take on those challenges if you have nothing else to do today...)
 
-- Challenge 9 :
+Ledger canister 💰
 
-- Challenge 10 :
+- Challenge 9 : In a new actor implement a function called <strong> <i> default_account </strong> </i> that returns the address of the subbacount 0 for the canister.
+
+- Challenge 10 : Write two functions :
+  - <strong> <i> balance </strong> </i> : takes no arguments and returns the balance of icps of the canister defaul account.
+  - <strong> <i> transfer </strong> </i> : takes
+
+Ressources for challenge 9 & 10.
+
+- Lectures on the ledger canister :
+- Example of icp in canister :
 
 <br/>
 <strong> <i> Good luck 🎉 </strong> </i>
