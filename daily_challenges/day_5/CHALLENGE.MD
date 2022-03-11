@@ -1,4 +1,4 @@
-# Challenge : day 5
+# Challenge : day 5 🦆
 
 # Prerequisites ✅
 
