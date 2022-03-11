@@ -109,20 +109,6 @@ For each track, based on the core project & daily challenges submission will det
 
 # Ressources 📚
 
-**Day 1** : [Guide](/daily_challenges/day_1/GUIDE.MD) and [Challenge](/daily_challenges/day_1/CHALLENGE.MD)
-<br/>
-**Day 2** : [Guide](/daily_challenges/day_2/GUIDE.MD) and [Challenge](/daily_challenges/day_2/CHALLENGE.MD)
-<br/>
-**Day 3** : Coming
-<br/>
-**Day 4** : Coming
-<br/>
-**Day 5** : Coming
-<br/>
-**Day 6** : Coming
-<br/>
-**Day 7** : Coming
-
 <a href="https://smartcontracts.org/docs/language-guide/about-this-guide.html" target="_blank"> **Motoko documentation** </a> : The main documentation for the Motoko language.
 
 
