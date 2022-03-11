@@ -315,7 +315,7 @@ actor {
     var my_name : Text = "";
 
     public func change_name(name : Text) : async () {
-        ny_name := name;
+        my_name := name;
     };
 
     public func show_name() : async Text {
@@ -339,7 +339,7 @@ actor {
     stable var my_name : Text = "";
 
     public func change_name(name : Text) : async () {
-        ny_name := name;
+        my_name := name;
     };
 
     public func show_name() : async Text {
