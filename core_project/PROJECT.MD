@@ -69,7 +69,7 @@ Other useful info:
 
 # Submission 📝
 
-We will publish the form to submit your core project here within the next day or two.
+Please**<a href="https://forms.gle/NxPyjU3ciG3UEQxa7" target="_blank" > fill out this form </a>**to submit your core project.
 
 # Ressources & Artwork 📚
 
