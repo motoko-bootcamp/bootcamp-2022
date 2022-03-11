@@ -69,7 +69,7 @@ Other useful info:
 
 # Submission 📝
 
-Please**<a href="https://forms.gle/NxPyjU3ciG3UEQxa7" target="_blank" > fill out this form </a>**to submit your core project.
+Please **<a href="https://forms.gle/NxPyjU3ciG3UEQxa7" target="_blank" > fill out this form </a>** to submit your core project.
 
 # Ressources & Artwork 📚
 
