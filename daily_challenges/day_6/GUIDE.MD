@@ -251,4 +251,4 @@ You'll also notice that we need to **await** calls to the other canister.
 
 # Challenge 🎮
 
-Take your last break and try completing challenge 7 to 10.
+Take your last break (🥳) and try completing challenge 7 to 10.
