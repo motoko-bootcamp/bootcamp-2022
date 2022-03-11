@@ -14,7 +14,7 @@ npm run start
 dfx start 
 
 # Deploys your canisters to the replica and generates your candid interface
-dfx deploy
+dfx deploy --argument '("<NAME OF YOUR COLLECTION>","<SYMBOL OF YOUR COLLECTION>")'
 ```
 
 Once the job completes, your application will be available at `http://localhost:8000?canisterId={asset_canister_id}`.
