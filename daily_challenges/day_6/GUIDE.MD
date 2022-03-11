@@ -6,9 +6,9 @@ Today we will cover the following topics : **Variant types**, **Result type**, *
 
 You can access the official documentation for each topic.
 
-- <a href="https://smartcontracts.org/docs/language-guide/caller-id.html" target="_blank"> Variant </a>.
-- <a href="https://smartcontracts.org/docs/base-libraries/HashMap.html" target="_blank"> Result </a>.
-- <a href="https://smartcontracts.org/docs/developers-guide/concepts/tokens-cycles.html" target="_blank"> Intercanister calls </a>.
+- <a href="https://smartcontracts.org/docs/candid-guide/candid-types.html" target="_blank"> Variant </a>.
+- <a href="https://smartcontracts.org/docs/language-guide/errors.html#_working_with_optionresult" target="_blank"> Result </a>.
+- <a href="https://smartcontracts.org/docs/developers-guide/tutorials/intercanister-calls.html" target="_blank"> Intercanister calls </a>.
 
 # Prerequisites ✅
 
