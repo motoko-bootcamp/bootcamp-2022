@@ -120,31 +120,27 @@ All Motoko-bootcamp **graduates** will receive :
 
 **[NEED to add link to curated list of resources from previous bootcamp, and go through this in more details to add stuff that may be missing]**
 
-<a href="https://internetcomputer.org/docs/current/developer-docs/ic-overview" target="_blank"> **Internet Computer documentation** </a> : The main documentation website for the Internet Computer.
+<a href="https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735" target="_blank"> **An article by DFINITY that summarizes Motoko concepts.** </a>: Motoko, Candid, Web assembly...
 
-<a href="https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko" target="_blank"> **Motoko Language documentation** </a> : The main documentation for the Motoko language.
+<a href="https://internetcomputer.org/docs/current/developer-docs/ic-overview" target="_blank"> **Internet Computer documentation** </a>: The main documentation website for the Internet Computer.
 
-<a href="https://internetcomputer.org/docs/current/references/motoko-ref/" target="_blank"> **Motoko Types documentation** </a> : A reference for the Motoko base library types and their functions.
+<a href="https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko" target="_blank"> **Motoko Language documentation** </a>: The main documentation for the Motoko language.
 
-<a href="https://internetcomputer.org/docs/current/references/cli-reference/dfx-parent" target="_blank"> **DFX documentation** </a> : The main documentation for the DFX command line tool used to deploy and manage dapps on the Internet Computer.
+<a href="https://internetcomputer.org/docs/current/references/motoko-ref/" target="_blank"> **Motoko Types documentation** </a>: A reference for the Motoko base library types and their functions.
 
-<a href="https://www.google.com/url?q=https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/&sa=D&source=docs&ust=1646578646250914&usg=AOvVaw2t9ssTnoubsEHh3XlqkTl9" target="_blank"> **Motoko playground** </a> : A sandbox to quickly write and test Motoko code from your browser.
+<a href="https://internetcomputer.org/docs/current/references/cli-reference/dfx-parent" target="_blank"> **DFX documentation** </a>: The main documentation for the DFX command line tool used to deploy and manage dapps on the Internet Computer.
 
+<a href="https://www.google.com/url?q=https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/&sa=D&source=docs&ust=1646578646250914&usg=AOvVaw2t9ssTnoubsEHh3XlqkTl9" target="_blank"> **Motoko playground** </a>: A sandbox to quickly write and test Motoko code from your browser.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko" target="_blank"> **Motoko extension** </a> : A Motoko extension for Visual Studio Code that provides syntax highlighting.
+<a href="https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko" target="_blank"> **Motoko extension** </a>: A Motoko extension for Visual Studio Code that provides syntax highlighting.
 
+<a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education repo** </a>: Educational ressources on datastructures, web development, blockchain and more.
 
-<a href="https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735" target="_blank"> **An article on Motoko by it's conceptor.** </a> : Motoko, Candid, Web assembly...
+<a href="https://internetcomputer.org/samples/" target="_blank"> **Examples** </a> : Sample code and applications written in Rust or Motoko. 
 
+<a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a>: Template project for major frameworks (Vue, React, Vanilla JS,Svelte).
 
-<a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education** </a> : Educational ressources on datastructures, web development, blockchain and more.
-
-
-<a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a> : Template project for major framework (Vue, React, Vanilla JS,Svelte).
-
-Advanced :
-
-<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. 💰
+<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a>: processing payments on the IC. 💰
 
 
 
