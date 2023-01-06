@@ -1,5 +1,5 @@
 # Welcome Motoko-bootcamp #2! 👻
-(#)[Para español, haga clic aquí[URL NEEDED]
+[Para español, haga clic aquí[URL NEEDED]](https://github.com/motoko-bootcamp/bootcamp/blob/main/README.md#graduation-levels-)
 
 Hello and welcome to all motivated web3 learners. 👋
 
@@ -25,7 +25,7 @@ Participation in the bootcamp is open and free, you can attend any of lectures y
 
 - Be fully enrolled
 - Complete all assigned challenges
-- Submit your core project before the deadline on [DEADLINE NEEDED].
+- Submit your core project before the deadline on **[DEADLINE NEEDED]**.
 
 # Lectures 🎬
 
@@ -78,7 +78,7 @@ Motoko Bootcamp is a self-driven event where each student works on their project
 
 Each student will be assigned a team of 10-15 students within a similar time zone, and then get private voice & chat channels on Discord where they can get together and discuss progress. We encourage each team to schedule a time each day to meet on the Discord voice channel to stay in touch.
 
-[MORE INFO ON TEAM ACTIVITIES NEEDED HERE]
+**[MORE INFO ON TEAM ACTIVITIES NEEDED HERE]**
 
 # Assistance & Ongoing Troubleshooting 📞
 
@@ -87,7 +87,7 @@ This event is being run by volunteers and we have **limited** ressources, we won
 When you need help, follow these steps **in this order**:
 
 1) Search on **Google** : most issues have their solution somewhere on the Internet, this is how real developers solve most of their problems. You need to make sure you've searched a for a few minutes on the Internet before moving to the **next step**. <br/>
-2) Dig into the (#)[list of resources and documentation [URL NEEDED]]. Most likely the answer you need will be in here if you dig enough, and the more practise you get navigating these resources the more effective and self-sufficient you'll be able to be as an Internet Computer developer.
+2) Dig into the [list of resources and documentation [URL NEEDED]](https://github.com/motoko-bootcamp/bootcamp/blob/main/README.md#graduation-levels-). Most likely the answer you need will be in here if you dig enough, and the more practise you get navigating these resources the more effective and self-sufficient you'll be able to be as an Internet Computer developer.
 2) Ask your **team** for help on **Discord** : you all have been assigned a specific team channel on Discord, this team is composed of people in your Time zone who are learning along with you. If you run into an issue, someone in your group probably encountered the same issue and might have the solution. You need to make sure you've asked your team and waited for a few minutes before moving to the **next step**. <br/>
 3) Go to the <a href="https://github.com/motoko-bootcamp/bootcamp/discussions" target="_blank"> discussion section </a> and ask your question by creating a new topic. **Make sure** your issue hasn't be already answered in another topic. <br/> If you decide to create a new topic, please provide as much information as possible:
 - When did you encounter the issue ?
@@ -102,7 +102,7 @@ Note : your issue might be resolved only in the next mentor session if we need y
 During Motoko Bootcamp #1, a student was either in a "beginner" track or "intermediate" track. For Motoko Bootcamp #2 we are changing this structure in favor of "Graduation Levels".
 
 - **Graduated** | You submitted a core project that met the requirements and completed the assigned coding challenges. You'll earn a diploma but no prizes.
-- **Graduated with honors | You submitted a core project that met the requirements, and went above and beyond by also meeting the (#)[graduate with honors requirements[URL NEEDED]].
+- **Graduated with honors** | You submitted a core project that met the requirements, and went above and beyond by also meeting the [graduate with honors requirements[URL NEEDED]](https://github.com/motoko-bootcamp/bootcamp/blob/main/README.md#graduation-levels-).
 - **Graduated at top of your class** | You submitted a core project which included unique extra features beyond any requirements we provided, and the dev mentors found your submission exeptional.
 - **Valedictorian** | One student will win the honor of being judge as having the most impressive core project submission.
 
@@ -112,13 +112,13 @@ All Motoko-bootcamp **graduates** will receive :
 
 - A **non-transferrable NFT-diploma** that will give special accesss to an exclusive Motoko Bootcamp **<a href="https://dscvr.one/p/motoko-bootcamp" target="\_blank"> DSCVR </a>** portal where students will be able to continue learning and collaborating with Dev Mentors and other graduates. 🏆
 
-[MORE PRIZE INFO NEEDED]
+**[MORE PRIZE INFO NEEDED]**
 
 <strong> <i> The gift of knowledge is the highest gift in the world. </i> </strong>
 
 # Ressources 📚
 
-[NEED to add link to curated list of resources from previous bootcamp, and go through this in more details to add stuff that may be missing]
+**[NEED to add link to curated list of resources from previous bootcamp, and go through this in more details to add stuff that may be missing]**
 
 <a href="https://internetcomputer.org/docs/current/developer-docs/ic-overview" target="_blank"> **Internet Computer documentation** </a> : The main documentation website for the Internet Computer.
 
