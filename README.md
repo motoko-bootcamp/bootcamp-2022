@@ -141,7 +141,3 @@ All Motoko-bootcamp **graduates** will receive :
 <a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a>: Template project for major frameworks (Vue, React, Vanilla JS,Svelte).
 
 <a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a>: processing payments on the IC. 💰
-
-
-
-
