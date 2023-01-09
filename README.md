@@ -1,5 +1,5 @@
 # Motoko Bootcamp 2022 👻
-
+[THIS EVENT IS OVER - THIS REPOSITORY IS HERE FOR ANYONE INTERESTED IN MAKING USE OF THE EDUCATIONAL RESOURCES]
 Hello and welcome to all motivated learners. 🧑‍🎓
 
 We believe the Internet Computer is an amazing piece of technology: cryptography, mathematics, computer science, blockchain technology, cloud technology... it's one achievement for mankind to combine so much ingenuity and knowledge into one project. 📚
